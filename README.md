@@ -12,14 +12,18 @@
 - **Infrastructure:** Linux (LinuC 101保持), Network (職業訓練308時間修了)
 
 ## 🛠️ Projects
---**badminton.ninja (EC Site Construction)**
-  - AWS Lightsailを使用したECサイトの構築・運用実績。
-  - WordPressのカスタマイズ、独自ドメインの設定、SSL化を完遂。
-  - ※現在はサーバーコスト最適化のため、インフラ構成図と設計資料をメインに公開。
-　**Automated Operations (GAS)**
-  - 在庫管理や天気予報連携による事務作業の8割削減を実現。
-- **Morning Alarm Script**
-  - Pythonを用いた生活リズム最適化ツールの開発。
+### 🏸 badminton.ninja (EC Site Construction)
+- **概要:** AWS Lightsailを使用したECサイトの構築・運用実績。
+- **詳細:** WordPressのカスタマイズ、独自ドメインの設定、SSL化を完遂。
+- **状況:** ※現在はサーバーコスト最適化のため、設計実績として公開。
+
+### ⚡ Automated Operations (GAS)
+- **概要:** Google Apps Scriptを用いた業務自動化。
+- **実績:** 在庫管理や天気予報連携により、事務作業の8割削減を実現。
+
+### ⏰ Morning Alarm Script
+- **概要:** Pythonを用いた生活リズム最適化ツールの開発。
+- **特徴:** 自身の体調管理とルーティン維持のために自作・運用。
 
 ## 📈 Currently Learning
 - **Google Cloud:** BigQueryによる大規模地理空間データの解析。
