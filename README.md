@@ -1,34 +1,52 @@
-# Hi, I'm Masaaki Ito 🌏
+# Masaaki Itoh (@Masaaki-jp) 🌏
+**IT Educator & Business Architect | Creator of A-NINJA.COM**
 
-### 測量実務（測量士補）× クラウドエンジニア（AWS / Google Cloud）
-「現場のデータ構造を理解し、クラウドで価値に変える」
+> "我らは忍。質素に生き、コードと知恵（Science）でITの荒野（ウェイストランド）を生き抜く。"
+
+ITの荒野へようこそ。ここは、重装甲のレガシーシステムや高額なサブスク税に抗い、低スペックPCとクラウド（GCP/GAS）の力で戦う「サバイバルDX」の拠点です。
+
+---
+
+### 🚀 Strategic Hub
+- **Official Site:** [a-ninja.com](https://a-ninja.com) (Serverless Terminal)
+- **Knowledge:** [note (GCP & Chromebook Education)](https://note.com/masa_cloud)
+- **Reports:** [Hatena Blog (Generative AI Practical Reports)](https://blog.hatena.ne.jp/musaco-life/)
 
 ---
 
-## 🚀 Strength & Skills
-- **Domain:** 測量士補、宅建士（地図データと不動産実務の知見）
-- **Cloud:** AWS (Lightsail), Google Cloud (BigQuery/Study)
-- **Programming:** Python, Google Apps Script (GAS)
-- **Infrastructure:** Linux (LinuC 101保持), Network (職業訓練308時間修了)
-
-## 🛠️ Projects
-### 🏸 badminton.ninja (EC Site Construction)
-- **概要:** AWS Lightsailを使用したECサイトの構築・運用実績。
-- **詳細:** WordPressのカスタマイズ、独自ドメインの設定、SSL化を完遂。
-- **状況:** ※現在はサーバーコスト最適化のため、設計実績として公開。
-
-### ⚡ Automated Operations (GAS)
-- **概要:** Google Apps Scriptを用いた業務自動化。
-- **実績:** 在庫管理や天気予報連携により、事務作業の8割削減を実現。
-
-### ⏰ Morning Alarm Script
-- **概要:** Pythonを用いた生活リズム最適化ツールの開発。
-- **特徴:** 自身の体調管理とルーティン維持のために自作・運用。
-
-## 📈 Currently Learning
-- **Google Cloud:** BigQueryによる大規模地理空間データの解析。
-- **Python:** 測量・地図データの自動処理パイプライン。
+### 🛠️ Core Skills & Stack
+- **Cloud:** Google Cloud (Firebase, BigQuery), Google Apps Script (GAS)
+- **Domain:** 測量実務（測量士補）、不動産実務（宅建士）、法律の知見
+- **Infra:** Linux (LinuC 101), Network Security
+- **Philosophy:** サーバーレス・在庫なし・軽量・爆速
 
 ---
-📫 Contact: 080-3562-0302 [cite: 2026-01-23]
-📍 Location: 神奈川県川崎市中原区 [cite: 2026-01-23]
+
+### ⚡ Featured Projects
+
+#### 📂 [a-ninja.com](https://a-ninja.com)
+Firebase Hosting + Cloudflare で構築した「サバイバルDX」の統合ターミナル。低スペックPCでも爆速で動作し、スパムボットを回避するステルス実装を搭載。
+
+#### 🧪 J-WASTELAND & Project G.O.A.T.
+- **[J-Survival-Protocol-JSP-](https://github.com/Masaaki-jp/J-Survival-Protocol-JSP-)**: 核爆発における生存判定プロトコル。
+- **[Project-OS-GOAT](https://github.com/Masaaki-jp/Project-OS-GOAT)**: 最適なOS環境を定義する診断モジュール。
+- **[offshore-gonogo-dashboard](https://github.com/Masaaki-jp/offshore-gonogo-dashboard)**: 判断の自動化を実現するダッシュボード。
+
+#### ⚙️ Automated Operations (GAS)
+Google Apps Scriptを用いた業務自動化のアーカイブ。事務作業の8割削減を実現するスクリプト群。
+
+---
+
+### 📈 Career Log & Expertise
+- **Personal Business (2023-2025):** ECサイト（AWS Lightsail + WordPress）の構築・運用を完遂。現在はサーバーコスト最適化と戦略的撤退を経て、より軽量なGCP/Firebase環境へ移行。
+- **Professional Training (2025):** ネットワーク・セキュリティ・AWSサーバ習得科を修了（全科目「A」評価）。
+- **Background:** 不動産賃貸管理、土地・建物の測量、境界確定業務。現場のデータ構造を理解し、ITで価値に変える。
+
+---
+
+### 📫 Transmission
+- **Email:** contact@a-ninja.com
+- **Location:** Kawasaki, Japan
+
+---
+© 2026 Masaaki Ito. Stay Lightweight.
