@@ -9,8 +9,8 @@ ITの荒野へようこそ。ここは、重装甲のレガシーシステムや
 
 ### 🚀 Strategic Hub
 - **Official Site:** [a-ninja.com](https://a-ninja.com) (Serverless Terminal)
-- **Knowledge:** [note (GCP & Chromebook Education)] (https://note.com/masa_cloud)
-- **Reports:** [Hatena Blog (Generative AI Practical Reports)] (https://blog.hatena.ne.jp/musaco-life/)
+- **Knowledge:** [note (GCP & Chromebook Education)](https://note.com/masa_cloud)
+- **Reports:** [Hatena Blog (Generative AI Practical Reports)](https://blog.hatena.ne.jp/musaco-life/)
 
 ---
 
